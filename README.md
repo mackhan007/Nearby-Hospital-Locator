@@ -17,13 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 # Permission
-![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(7).jpeg) 
 ![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(8).jpeg)
+![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(7).jpeg) 
 # Starting Page
 ![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(1).jpeg)
-![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(2).jpeg)
 ![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(6).jpeg)
 # when clicked on marker
 ![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(9).jpeg)
-# when clicked on the card
+# when and after clicked on the card
 ![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(3).jpeg)
+![image](https://github.com/mackhan007/Nearby-Hospital-Locator/blob/master/ss/demo(2).jpeg)
